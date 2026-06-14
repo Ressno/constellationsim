@@ -1,7 +1,8 @@
-streamlit==1.42.0
+streamlit
 pandas
 numpy
 plotly
 requests
 python-dotenv
 schedule
+altair
